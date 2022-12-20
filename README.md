@@ -1,4 +1,7 @@
 # VsCode-Settings
+Extensions: 
+https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons
+
 Visual Studio Code Settings
 
 
