@@ -1,3 +1,5 @@
+```
+
 // Required Plugin: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 
 {
@@ -94,3 +96,4 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   }
 }
+```
